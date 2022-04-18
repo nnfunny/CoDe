@@ -1,6 +1,6 @@
 {
   "name": "algorithm-design-canvas",
-  "private": true,
+  "homepage": "https://nnfunny.github.io/algorithm-design-canvas",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
