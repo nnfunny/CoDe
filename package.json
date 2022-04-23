@@ -1,10 +1,10 @@
 {
   "name": "algorithm-design-canvas",
-  "homepage": "https://nnfunny.github.io/algorithm-design-canvas/",
-  "version": "0.0.0",
+  "homepage": "https://nnfunny.github.io/CoDe/",
+  "version": "0.1.0",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build --base=/algorithm-design-canvas/",
+    "build": "tsc && vite build --base=/CoDe/",
     "preview": "vite preview"
   },
   "devDependencies": {
